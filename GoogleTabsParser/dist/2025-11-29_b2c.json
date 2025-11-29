@@ -1,0 +1,471 @@
+[
+  {
+    "region": "Moscow",
+    "code": 77,
+    "petrol92": "61.45",
+    "petrol95": "67.41",
+    "diesel": "74.85"
+  },
+  {
+    "region": "Saint Petersburg",
+    "code": 78,
+    "petrol92": "61.31",
+    "petrol95": "66.08",
+    "diesel": "75.59"
+  },
+  {
+    "region": "Republic of Adygea",
+    "code": 1,
+    "petrol92": "61.56",
+    "petrol95": "67.55",
+    "diesel": "70.40"
+  },
+  {
+    "region": "Republic of Bashkortostan",
+    "code": 2,
+    "petrol92": "58.98",
+    "petrol95": " ",
+    "diesel": "72.78"
+  },
+  {
+    "region": "Republic of Buryatia",
+    "code": 3,
+    "petrol92": "62.85",
+    "petrol95": "66.04",
+    "diesel": "80.92"
+  },
+  {
+    "region": "Altai Republic",
+    "code": 4,
+    "petrol92": "66.68",
+    "petrol95": "70.38",
+    "diesel": "78.97"
+  },
+  {
+    "region": "Republic of Ingushetia",
+    "code": 6,
+    "petrol92": "61.75",
+    "petrol95": "64.60",
+    "diesel": "70.65"
+  },
+  {
+    "region": "Kabardino-Balkarian Republic",
+    "code": 7,
+    "petrol92": "61.75",
+    "petrol95": "66.50",
+    "diesel": "70.70"
+  },
+  {
+    "region": "Karachay-Cherkess Republic",
+    "code": 9,
+    "petrol92": "61.25",
+    "petrol95": "66.30",
+    "diesel": "70.40"
+  },
+  {
+    "region": "Republic of Karelia",
+    "code": 10,
+    "petrol92": "61.25",
+    "petrol95": "65.50",
+    "diesel": "77.12"
+  },
+  {
+    "region": "Komi Republic",
+    "code": 11,
+    "petrol92": " ",
+    "petrol95": " ",
+    "diesel": "75.00"
+  },
+  {
+    "region": "Mari El Republic",
+    "code": 12,
+    "petrol92": "59.67",
+    "petrol95": "63.50",
+    "diesel": "69.80"
+  },
+  {
+    "region": "Republic of Mordovia",
+    "code": 13,
+    "petrol92": "59.75",
+    "petrol95": "64.40",
+    "diesel": "72.73"
+  },
+  {
+    "region": "Sakha Republic (Yakutia)",
+    "code": 14,
+    "petrol92": "77.48",
+    "petrol95": "80.04",
+    "diesel": "93.10"
+  },
+  {
+    "region": "Republic of North Ossetia-Alania",
+    "code": 15,
+    "petrol92": "61.27",
+    "petrol95": "65.97",
+    "diesel": "69.91"
+  },
+  {
+    "region": "Republic of Tatarstan",
+    "code": 16,
+    "petrol92": "59.12",
+    "petrol95": "63.24",
+    "diesel": "69.62"
+  },
+  {
+    "region": "Udmurt Republic",
+    "code": 18,
+    "petrol92": "59.10",
+    "petrol95": "63.60",
+    "diesel": "71.59"
+  },
+  {
+    "region": "Republic of Khakassia",
+    "code": 19,
+    "petrol92": "61.07",
+    "petrol95": "64.83",
+    "diesel": "80.15"
+  },
+  {
+    "region": "Chuvash Republic",
+    "code": 21,
+    "petrol92": "59.60",
+    "petrol95": "63.43",
+    "diesel": "70.42"
+  },
+  {
+    "region": "Altai Krai",
+    "code": 22,
+    "petrol92": "59.18",
+    "petrol95": "62.29",
+    "diesel": "76.44"
+  },
+  {
+    "region": "Zabaykalsky Krai",
+    "code": 75,
+    "petrol92": "67.99",
+    "petrol95": "72.94",
+    "diesel": "84.98"
+  },
+  {
+    "region": "Krasnodar Krai",
+    "code": 23,
+    "petrol92": "62.43",
+    "petrol95": "68.13",
+    "diesel": "72.16"
+  },
+  {
+    "region": "Krasnoyarsk Krai",
+    "code": 24,
+    "petrol92": "66.66",
+    "petrol95": "69.30",
+    "diesel": "84.04"
+  },
+  {
+    "region": "Perm Krai",
+    "code": 59,
+    "petrol92": "61.87",
+    "petrol95": "66.46",
+    "diesel": "73.23"
+  },
+  {
+    "region": "Stavropol Krai",
+    "code": 26,
+    "petrol92": "61.80",
+    "petrol95": "67.70",
+    "diesel": "72.33"
+  },
+  {
+    "region": "Arkhangelsk Oblast",
+    "code": 29,
+    "petrol92": "61.23",
+    "petrol95": "66.08",
+    "diesel": "77.78"
+  },
+  {
+    "region": "Astrakhan Oblast",
+    "code": 30,
+    "petrol92": "61.05",
+    "petrol95": "66.45",
+    "diesel": "71.97"
+  },
+  {
+    "region": "Belgorod Oblast",
+    "code": 31,
+    "petrol92": "60.32",
+    "petrol95": "65.67",
+    "diesel": "71.49"
+  },
+  {
+    "region": "Bryansk Oblast",
+    "code": 32,
+    "petrol92": "60.35",
+    "petrol95": "65.70",
+    "diesel": "71.00"
+  },
+  {
+    "region": "Vladimir Oblast",
+    "code": 33,
+    "petrol92": "59.55",
+    "petrol95": "64.19",
+    "diesel": "71.47"
+  },
+  {
+    "region": "Volgograd Oblast",
+    "code": 34,
+    "petrol92": "59.64",
+    "petrol95": "66.43",
+    "diesel": "71.58"
+  },
+  {
+    "region": "Vologda Oblast",
+    "code": 35,
+    "petrol92": "62.71",
+    "petrol95": "66.43",
+    "diesel": "75.96"
+  },
+  {
+    "region": "Voronezh Oblast",
+    "code": 36,
+    "petrol92": "61.56",
+    "petrol95": "66.65",
+    "diesel": "71.17"
+  },
+  {
+    "region": "Irkutsk Oblast",
+    "code": 38,
+    "petrol92": "63.45",
+    "petrol95": "67.06",
+    "diesel": "80.98"
+  },
+  {
+    "region": "Kaliningrad Oblast",
+    "code": 39,
+    "petrol92": "65.40",
+    "petrol95": "69.20",
+    "diesel": "74.50"
+  },
+  {
+    "region": "Kaluga Oblast",
+    "code": 40,
+    "petrol92": "58.70",
+    "petrol95": "62.50",
+    "diesel": "71.00"
+  },
+  {
+    "region": "Kemerovo Oblast",
+    "code": 42,
+    "petrol92": "63.62",
+    "petrol95": "68.15",
+    "diesel": "76.51"
+  },
+  {
+    "region": "Kirov Oblast",
+    "code": 43,
+    "petrol92": "60.83",
+    "petrol95": "65.83",
+    "diesel": "74.87"
+  },
+  {
+    "region": "Kostroma Oblast",
+    "code": 44,
+    "petrol92": "60.31",
+    "petrol95": "64.21",
+    "diesel": "73.68"
+  },
+  {
+    "region": "Kurgan Oblast",
+    "code": 45,
+    "petrol92": "57.75",
+    "petrol95": "62.95",
+    "diesel": "75.65"
+  },
+  {
+    "region": "Kursk Oblast",
+    "code": 46,
+    "petrol92": "59.59",
+    "petrol95": "65.21",
+    "diesel": "71.37"
+  },
+  {
+    "region": "Leningrad Oblast",
+    "code": 47,
+    "petrol92": "61.34",
+    "petrol95": "65.97",
+    "diesel": "75.56"
+  },
+  {
+    "region": "Lipetsk Oblast",
+    "code": 48,
+    "petrol92": "60.35",
+    "petrol95": "65.50",
+    "diesel": "70.85"
+  },
+  {
+    "region": "Moscow Oblast",
+    "code": 50,
+    "petrol92": "60.97",
+    "petrol95": "66.37",
+    "diesel": "73.29"
+  },
+  {
+    "region": "Murmansk Oblast",
+    "code": 51,
+    "petrol92": "64.32",
+    "petrol95": "68.24",
+    "diesel": "81.55"
+  },
+  {
+    "region": "Nizhny Novgorod Oblast",
+    "code": 52,
+    "petrol92": "60.71",
+    "petrol95": "64.85",
+    "diesel": "71.82"
+  },
+  {
+    "region": "Novgorod Oblast",
+    "code": 53,
+    "petrol92": "60.97",
+    "petrol95": "64.99",
+    "diesel": "75.34"
+  },
+  {
+    "region": "Novosibirsk Oblast",
+    "code": 54,
+    "petrol92": "58.93",
+    "petrol95": "63.01",
+    "diesel": "77.76"
+  },
+  {
+    "region": "Omsk Oblast",
+    "code": 55,
+    "petrol92": "57.28",
+    "petrol95": "61.81",
+    "diesel": "73.81"
+  },
+  {
+    "region": "Orenburg Oblast",
+    "code": 56,
+    "petrol92": "59.32",
+    "petrol95": " ",
+    "diesel": "73.61"
+  },
+  {
+    "region": "Oryol Oblast",
+    "code": 57,
+    "petrol92": "60.25",
+    "petrol95": "64.89",
+    "diesel": "70.60"
+  },
+  {
+    "region": "Penza Oblast",
+    "code": 58,
+    "petrol92": "59.82",
+    "petrol95": "64.12",
+    "diesel": "71.68"
+  },
+  {
+    "region": "Pskov Oblast",
+    "code": 60,
+    "petrol92": "61.17",
+    "petrol95": "65.10",
+    "diesel": "75.09"
+  },
+  {
+    "region": "Rostov Oblast",
+    "code": 61,
+    "petrol92": "62.69",
+    "petrol95": "68.57",
+    "diesel": "71.91"
+  },
+  {
+    "region": "Ryazan Oblast",
+    "code": 62,
+    "petrol92": "60.06",
+    "petrol95": "64.57",
+    "diesel": "71.46"
+  },
+  {
+    "region": "Samara Oblast",
+    "code": 63,
+    "petrol92": "58.76",
+    "petrol95": "63.86",
+    "diesel": "70.69"
+  },
+  {
+    "region": "Saratov Oblast",
+    "code": 64,
+    "petrol92": "60.86",
+    "petrol95": "64.82",
+    "diesel": "72.63"
+  },
+  {
+    "region": "Sverdlovsk Oblast",
+    "code": 66,
+    "petrol92": "60.14",
+    "petrol95": "64.23",
+    "diesel": "76.32"
+  },
+  {
+    "region": "Smolensk Oblast",
+    "code": 67,
+    "petrol92": "61.05",
+    "petrol95": "65.45",
+    "diesel": "72.35"
+  },
+  {
+    "region": "Tambov Oblast",
+    "code": 68,
+    "petrol92": "60.32",
+    "petrol95": "65.47",
+    "diesel": "70.80"
+  },
+  {
+    "region": "Tver Oblast",
+    "code": 69,
+    "petrol92": "60.34",
+    "petrol95": "64.19",
+    "diesel": "73.83"
+  },
+  {
+    "region": "Tomsk Oblast",
+    "code": 70,
+    "petrol92": "58.54",
+    "petrol95": "62.06",
+    "diesel": "78.27"
+  },
+  {
+    "region": "Tula Oblast",
+    "code": 71,
+    "petrol92": "60.38",
+    "petrol95": "66.05",
+    "diesel": "71.29"
+  },
+  {
+    "region": "Ulyanovsk Oblast",
+    "code": 73,
+    "petrol92": "59.14",
+    "petrol95": "63.89",
+    "diesel": "70.95"
+  },
+  {
+    "region": "Chelyabinsk Oblast",
+    "code": 74,
+    "petrol92": "56.92",
+    "petrol95": "62.11",
+    "diesel": "74.43"
+  },
+  {
+    "region": "Yaroslavl Oblast",
+    "code": 76,
+    "petrol92": "58.96",
+    "petrol95": "62.95",
+    "diesel": "73.08"
+  },
+  {
+    "region": "Khanty-Mansi Autonomous Okrug",
+    "code": 86,
+    "petrol92": "60.95",
+    "petrol95": "65.32",
+    "diesel": "81.50"
+  }
+]

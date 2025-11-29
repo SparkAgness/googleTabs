@@ -1,0 +1,2 @@
+New-Item "C:\Temp\stop_daemon.flag" -Force | Out-Null
+Write-Host "Сигнал остановки отправлен. Демон завершится в течение минуты."

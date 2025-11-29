@@ -1,0 +1,1 @@
+Start-Process PowerShell.exe -ArgumentList -WindowStyle Hidden -File start.ps1

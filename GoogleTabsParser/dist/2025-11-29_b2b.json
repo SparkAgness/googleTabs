@@ -1,0 +1,578 @@
+[
+  {
+    "region": "Алтайский край",
+    "code": 22,
+    "petrol92": 87000,
+    "petrol95": 87500,
+    "diesel": 0,
+    "winter-diesel": 88200
+  },
+  {
+    "region": "Амурская область",
+    "code": 28,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 105100
+  },
+  {
+    "region": "Архангельская область",
+    "code": 29,
+    "petrol92": 84000,
+    "petrol95": 86500,
+    "diesel": 0,
+    "winter-diesel": 87000
+  },
+  {
+    "region": "Астраханская область",
+    "code": 30,
+    "petrol92": 85500,
+    "petrol95": 93500,
+    "diesel": 0,
+    "winter-diesel": 84300
+  },
+  {
+    "region": "Белгородская область",
+    "code": 31,
+    "petrol92": 81000,
+    "petrol95": 83000,
+    "diesel": 66000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Брянская область",
+    "code": 32,
+    "petrol92": 77000,
+    "petrol95": 81900,
+    "diesel": 69800,
+    "winter-diesel": 78000
+  },
+  {
+    "region": "Владимирская область",
+    "code": 33,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Волгоградская область",
+    "code": 34,
+    "petrol92": 80000,
+    "petrol95": 85000,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Вологодская область",
+    "code": 35,
+    "petrol92": 80100,
+    "petrol95": 87700,
+    "diesel": 0,
+    "winter-diesel": 88500
+  },
+  {
+    "region": "Воронежская область",
+    "code": 36,
+    "petrol92": 78000,
+    "petrol95": 82500,
+    "diesel": 69400,
+    "winter-diesel": 85000
+  },
+  {
+    "region": "Донецкая Народная Республика",
+    "code": 180,
+    "petrol92": 84000,
+    "petrol95": 88000,
+    "diesel": 77000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Забайкальский край",
+    "code": 75,
+    "petrol92": 87400,
+    "petrol95": 92000,
+    "diesel": 0,
+    "winter-diesel": 96400
+  },
+  {
+    "region": "Ивановская область",
+    "code": 37,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Иркутская область",
+    "code": 38,
+    "petrol92": 83600,
+    "petrol95": 83900,
+    "diesel": 0,
+    "winter-diesel": 93800
+  },
+  {
+    "region": "Кабардино-Балкарская Республика",
+    "code": 7,
+    "petrol92": 87700,
+    "petrol95": 78700,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Калининградская область",
+    "code": 39,
+    "petrol92": 89600,
+    "petrol95": 95600,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Калужская область",
+    "code": 40,
+    "petrol92": 77000,
+    "petrol95": 81000,
+    "diesel": 67000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Кемеровская область",
+    "code": 42,
+    "petrol92": 73650,
+    "petrol95": 78100,
+    "diesel": 68550,
+    "winter-diesel": 86650
+  },
+  {
+    "region": "Кировская область",
+    "code": 43,
+    "petrol92": 80400,
+    "petrol95": 85600,
+    "diesel": 0,
+    "winter-diesel": 86900
+  },
+  {
+    "region": "Костромская область",
+    "code": 44,
+    "petrol92": 71500,
+    "petrol95": 77900,
+    "diesel": 0,
+    "winter-diesel": 81400
+  },
+  {
+    "region": "Краснодарский край",
+    "code": 23,
+    "petrol92": 82000,
+    "petrol95": 89000,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Красноярский край",
+    "code": 24,
+    "petrol92": 74500,
+    "petrol95": 81800,
+    "diesel": 0,
+    "winter-diesel": 85400
+  },
+  {
+    "region": "Курганская область",
+    "code": 45,
+    "petrol92": 78500,
+    "petrol95": 83000,
+    "diesel": 72000,
+    "winter-diesel": 92100
+  },
+  {
+    "region": "Курская область",
+    "code": 46,
+    "petrol92": 82000,
+    "petrol95": 83000,
+    "diesel": 0,
+    "winter-diesel": 78000
+  },
+  {
+    "region": "Липецкая область",
+    "code": 48,
+    "petrol92": 78000,
+    "petrol95": 84000,
+    "diesel": 68800,
+    "winter-diesel": 81500
+  },
+  {
+    "region": "Луганская Народная Республика",
+    "code": 181,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Москва и Московская область",
+    "code": null,
+    "petrol92": 69400,
+    "petrol95": 78300,
+    "diesel": 61500,
+    "winter-diesel": 75300
+  },
+  {
+    "region": "Мурманская область",
+    "code": 51,
+    "petrol92": 82900,
+    "petrol95": 87400,
+    "diesel": 0,
+    "winter-diesel": 89400
+  },
+  {
+    "region": "Ненецкий автономный округ",
+    "code": 83,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Нижегородская область",
+    "code": 52,
+    "petrol92": 81000,
+    "petrol95": 87900,
+    "diesel": 77040,
+    "winter-diesel": 86500
+  },
+  {
+    "region": "Новгородская область",
+    "code": 53,
+    "petrol92": 81000,
+    "petrol95": 86000,
+    "diesel": 75000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Новосибирская область",
+    "code": 54,
+    "petrol92": 72750,
+    "petrol95": 77200,
+    "diesel": 0,
+    "winter-diesel": 85650
+  },
+  {
+    "region": "Омская область",
+    "code": 55,
+    "petrol92": 69600,
+    "petrol95": 74050,
+    "diesel": 61400,
+    "winter-diesel": 82500
+  },
+  {
+    "region": "Оренбургская область",
+    "code": 56,
+    "petrol92": 72800,
+    "petrol95": 80900,
+    "diesel": 0,
+    "winter-diesel": 91400
+  },
+  {
+    "region": "Орловская область",
+    "code": 57,
+    "petrol92": 77500,
+    "petrol95": 83500,
+    "diesel": 68500,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Пензенская область",
+    "code": 58,
+    "petrol92": 79000,
+    "petrol95": 82500,
+    "diesel": 68000,
+    "winter-diesel": 80000
+  },
+  {
+    "region": "Пермский край",
+    "code": 59,
+    "petrol92": 75600,
+    "petrol95": 78850,
+    "diesel": 0,
+    "winter-diesel": 82000
+  },
+  {
+    "region": "Приморский край",
+    "code": 25,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 112600
+  },
+  {
+    "region": "Псковская область",
+    "code": 60,
+    "petrol92": 75600,
+    "petrol95": 81900,
+    "diesel": 0,
+    "winter-diesel": 85500
+  },
+  {
+    "region": "Республика Адыгея",
+    "code": 1,
+    "petrol92": 86400,
+    "petrol95": 92700,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Республика Башкортостан",
+    "code": 2,
+    "petrol92": 67500,
+    "petrol95": 77100,
+    "diesel": 0,
+    "winter-diesel": 78900
+  },
+  {
+    "region": "Республика Бурятия",
+    "code": 3,
+    "petrol92": 86200,
+    "petrol95": 90400,
+    "diesel": 0,
+    "winter-diesel": 95000
+  },
+  {
+    "region": "Республика Карелия",
+    "code": 10,
+    "petrol92": 79300,
+    "petrol95": 85500,
+    "diesel": 0,
+    "winter-diesel": 94000
+  },
+  {
+    "region": "Республика Коми",
+    "code": 11,
+    "petrol92": 82100,
+    "petrol95": 87900,
+    "diesel": 0,
+    "winter-diesel": 92000
+  },
+  {
+    "region": "Республика Крым",
+    "code": 82,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Республика Марий Эл",
+    "code": 12,
+    "petrol92": 71000,
+    "petrol95": 73000,
+    "diesel": 0,
+    "winter-diesel": 77000
+  },
+  {
+    "region": "Республика Мордовия",
+    "code": 13,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Республика Саха (Якутия)",
+    "code": 14,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 130000
+  },
+  {
+    "region": "Республика Татарстан",
+    "code": 16,
+    "petrol92": 71000,
+    "petrol95": 74000,
+    "diesel": 0,
+    "winter-diesel": 77000
+  },
+  {
+    "region": "Республика Хакасия",
+    "code": 19,
+    "petrol92": 84500,
+    "petrol95": 87500,
+    "diesel": 71600,
+    "winter-diesel": 88000
+  },
+  {
+    "region": "Ростовская область",
+    "code": 61,
+    "petrol92": 80000,
+    "petrol95": 86000,
+    "diesel": 75000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Рязанская область",
+    "code": 62,
+    "petrol92": 74000,
+    "petrol95": 83000,
+    "diesel": 0,
+    "winter-diesel": 74500
+  },
+  {
+    "region": "Самарская область",
+    "code": 63,
+    "petrol92": 77000,
+    "petrol95": 81500,
+    "diesel": 0,
+    "winter-diesel": 76000
+  },
+  {
+    "region": "Санкт-Петербург и Ленинградская область",
+    "code": null,
+    "petrol92": 81500,
+    "petrol95": 89000,
+    "diesel": 0,
+    "winter-diesel": 87000
+  },
+  {
+    "region": "Саратовская область",
+    "code": 64,
+    "petrol92": 76500,
+    "petrol95": 81000,
+    "diesel": 0,
+    "winter-diesel": 76300
+  },
+  {
+    "region": "Сахалинская область",
+    "code": 65,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 122100
+  },
+  {
+    "region": "Свердловская область",
+    "code": 66,
+    "petrol92": 77400,
+    "petrol95": 81000,
+    "diesel": 0,
+    "winter-diesel": 86500
+  },
+  {
+    "region": "Смоленская область",
+    "code": 67,
+    "petrol92": 73200,
+    "petrol95": 80700,
+    "diesel": 0,
+    "winter-diesel": 76800
+  },
+  {
+    "region": "Ставропольский край",
+    "code": 26,
+    "petrol92": 80700,
+    "petrol95": 83700,
+    "diesel": 75700,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Тамбовская область",
+    "code": 68,
+    "petrol92": 78500,
+    "petrol95": 84000,
+    "diesel": 68800,
+    "winter-diesel": 81500
+  },
+  {
+    "region": "Тверская область",
+    "code": 69,
+    "petrol92": 76200,
+    "petrol95": 81000,
+    "diesel": 0,
+    "winter-diesel": 85500
+  },
+  {
+    "region": "Томская область",
+    "code": 70,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Тульская область",
+    "code": 71,
+    "petrol92": 76400,
+    "petrol95": 81100,
+    "diesel": 68000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Тюменская область",
+    "code": 72,
+    "petrol92": 77500,
+    "petrol95": 81000,
+    "diesel": 62300,
+    "winter-diesel": 87200
+  },
+  {
+    "region": "Удмуртская Республика",
+    "code": 18,
+    "petrol92": 73000,
+    "petrol95": 81100,
+    "diesel": 0,
+    "winter-diesel": 91700
+  },
+  {
+    "region": "Ульяновская область",
+    "code": 73,
+    "petrol92": 73000,
+    "petrol95": 78000,
+    "diesel": 67000,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Хабаровский край",
+    "code": 27,
+    "petrol92": 106500,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 111400
+  },
+  {
+    "region": "Ханты-Мансийский автономный округ - Югра",
+    "code": 86,
+    "petrol92": 74050,
+    "petrol95": 77650,
+    "diesel": 69000,
+    "winter-diesel": 88850
+  },
+  {
+    "region": "Челябинская область",
+    "code": 74,
+    "petrol92": 77100,
+    "petrol95": 80400,
+    "diesel": 0,
+    "winter-diesel": 85500
+  },
+  {
+    "region": "Чувашская Республика - Чувашия",
+    "code": 21,
+    "petrol92": 0,
+    "petrol95": 0,
+    "diesel": 0,
+    "winter-diesel": 0
+  },
+  {
+    "region": "Чукотский автономный округ",
+    "code": 87,
+    "petrol92": 129480,
+    "petrol95": 133200,
+    "diesel": 0,
+    "winter-diesel": 138360
+  },
+  {
+    "region": "Ямало-Ненецкий автономный округ",
+    "code": 89,
+    "petrol92": 80000,
+    "petrol95": 90000,
+    "diesel": 0,
+    "winter-diesel": 92000
+  }
+]
